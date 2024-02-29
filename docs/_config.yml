@@ -4,8 +4,8 @@ theme: jekyll-theme-minimal
 
 url: https://interTwin-eu.github.io/documentation
 
-aux_links:
-  Template Repository: https://github.com/interTwin-eu/documentation
+#aux_links:
+#  Template Repository: https://github.com/interTwin-eu/documentation
 
 favicon_ico: "favicon.ico"
 
